@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mpu_node.dir/src/mpu_node.cpp.o  -o /home/ahmed/catkin_ws/devel/lib/mpu6050/mpu_node -rdynamic 
